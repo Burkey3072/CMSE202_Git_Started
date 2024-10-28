@@ -1,0 +1,7 @@
+#Hi this is burke
+#Theres so much neat stuff in this txt file
+
+fruit = "starfruit"
+name = "Burke
+food = "sushi"
+
